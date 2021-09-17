@@ -273,9 +273,16 @@ footer figure {
   font-size: 1.3em;
 }
 
+.contact-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 430px;
+  width:100%;
+}
+
 #connect {
-  width: 50%;
-  text-align: right;
+  width: 20%;
+  text-align: left;
   margin-right: 10px;
 }
 
